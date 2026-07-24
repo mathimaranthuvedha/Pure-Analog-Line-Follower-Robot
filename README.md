@@ -125,19 +125,6 @@ TCRT5000 Sensors
 - Small wiring changes significantly affect behavior.
 - Battery protection should never be ignored.
 - Documentation is an essential engineering skill.
-  
-## Development Progress
-
-## Breadboard setup
-![Breadboard Setup](breadboard_setup.png)
-
-### Initial Prototype
-
-![V2](V2.png)
-
-### Final Prototype
-
-![V5](V5.png)
 
 <h2>Development Progress</h2>
 
