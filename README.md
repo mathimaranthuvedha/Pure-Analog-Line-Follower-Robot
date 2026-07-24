@@ -129,7 +129,7 @@ TCRT5000 Sensors
 ## Development Progress
 
 ## Breadboard setup
-![breadboard setup](breadboard setup.png)
+![Breadboard Setup](breadboard_setup.png)
 
 ### Initial Prototype
 
