@@ -126,7 +126,15 @@ TCRT5000 Sensors
 - Battery protection should never be ignored.
 - Documentation is an essential engineering skill.
   
-<p align="center">
-  <img src="images/V2.png" width="300">
-  <img src="images/V5.png" width="300">
-</p>
+## Development Progress
+
+## Breadboard setup
+![Breadboard](breadboard setup.png)
+
+### Initial Prototype
+
+![V2](V2.png)
+
+### Final Prototype
+
+![V5](V5.png)
