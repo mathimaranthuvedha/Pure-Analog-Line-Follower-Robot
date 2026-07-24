@@ -109,6 +109,21 @@ TCRT5000 Sensors
         ↓
      DC Motors
 ```
+
+
+<h2>Development Progress</h2>
+
+<table>
+  <tr>
+    <th>Initial Prototype</th>
+    <th>Final Prototype</th>
+  </tr>
+  <tr>
+    <td><img src="V2.png" width="350"></td>
+    <td><img src="V5.png" width="350"></td>
+  </tr>
+</table>
+
 ## Engineering Challenges
 
 | Issue | Solution |
@@ -125,16 +140,3 @@ TCRT5000 Sensors
 - Small wiring changes significantly affect behavior.
 - Battery protection should never be ignored.
 - Documentation is an essential engineering skill.
-
-<h2>Development Progress</h2>
-
-<table>
-  <tr>
-    <th>Initial Prototype</th>
-    <th>Final Prototype</th>
-  </tr>
-  <tr>
-    <td><img src="V2.png" width="350"></td>
-    <td><img src="V5.png" width="350"></td>
-  </tr>
-</table>
