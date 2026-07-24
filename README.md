@@ -138,3 +138,16 @@ TCRT5000 Sensors
 ### Final Prototype
 
 ![V5](V5.png)
+
+<h2>Development Progress</h2>
+
+<table>
+  <tr>
+    <th>Initial Prototype</th>
+    <th>Final Prototype</th>
+  </tr>
+  <tr>
+    <td><img src="V2.png" width="350"></td>
+    <td><img src="V5.png" width="350"></td>
+  </tr>
+</table>
