@@ -127,6 +127,6 @@ TCRT5000 Sensors
 - Documentation is an essential engineering skill.
   
 <p align="center">
-  <img src="images/V2.jpg" width="300">
-  <img src="images/V5.jpg" width="300">
+  <img src="images/V2.png" width="300">
+  <img src="images/V5.png" width="300">
 </p>
