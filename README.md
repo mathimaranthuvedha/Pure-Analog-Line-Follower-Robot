@@ -124,7 +124,7 @@ TCRT5000 Sensors
   </tr>
 </table>
 
-![Demo](line_follower_gif.gif)
+![Demo](line_follower_gif.mp4)
 
 ## Engineering Challenges
 
